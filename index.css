@@ -250,14 +250,11 @@ p { color: #467991;
 #div-contact { width: 80%;
 }
 
-.col-md-7{ 
-			border: solid grey 3px;
+.col-md-7{
 			padding-left: 20%;
  }
 
- .col-md-5{ 
-			border: solid red 3px;
- }
+
 
 .navbar-transparent {
   background-color: rgba(80,138,168, 0.6);
@@ -357,9 +354,15 @@ ul
  
 
 .footer-content:hover { text-decoration: underline;
+						color: white;
  						 }
 
 .footer-link { color: #C0CBD1; }
 
 .footer-link:hover { color: white;}
 
+a:hover { color: white;}
+a{ color: #C0CBD1 }
+
+#fonction{ color : black;
+			font-size: 18px;}
